@@ -1,0 +1,14 @@
+package xyz.zzjava;
+
+public class demo {
+	
+	public static void main(String[] args) {
+		
+		  int i=5,y=10;
+		  
+		  System.out.println(i+y);
+		 
+		 
+	}
+
+}

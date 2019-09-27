@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package xyz.zzjava;
+
+/**
+ * @author Admin
+ *
+ */
+public class demo3 {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+	}
+
+}
